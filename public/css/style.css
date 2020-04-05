@@ -1,0 +1,22 @@
+.nav-link {
+    color: white;
+}
+
+#signup,
+#login,
+.alert {
+    max-width: 600px;
+}
+
+.container > .login {
+    margin-top: 100px;
+}
+
+.card-img-top:hover {
+    transform: translateY(-10px);
+}
+
+.footer-icon {
+	height: 50px;
+	width: 50px;
+}

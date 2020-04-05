@@ -1,0 +1,26 @@
+.nav-link {
+    color: black;
+}
+
+form {
+    max-width: 600px;
+}
+
+.container > h1 {
+    margin-top: 100px;
+}
+
+svg {
+    width: 20px;
+    margin-right: 10px;
+}
+
+.sidebar-sticky {
+    position: sticky;
+    height: calc(100vh - 48px);
+}
+#signup,
+#login,
+.alert {
+    max-width: 600px;
+}
