@@ -20,7 +20,9 @@
             <p>Rom: <?php echo $product['prod_rom']; ?></p>
             <p>Ram: <?php echo $product['prod_ram']; ?></p>
             <p>Operating System: <?php echo $product['prod_os']; ?></p>
+            <a href="buy_product.php?id=<?php echo $row['prod_id']; ?>" class="btn btn-outline-primary d-block mb-2">Buy</a>
         </div>
+        
     </div>
 </div>
 
